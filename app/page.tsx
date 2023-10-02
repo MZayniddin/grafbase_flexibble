@@ -1,9 +1,5 @@
 const Home = () => {
-  return (
-    <div>
-      <h1>Home</h1>
-    </div>
-  );
+  return <section>Categories Posts</section>;
 };
 
 export default Home;
